@@ -41,7 +41,7 @@ create table Oyuncular(
 	OyuncuAdi nvarchar(100)
 )
 
-create table Oyuncular_Film(
+create table Oyuncular_Filmler(
 	FilmID int foreign key references Filmler(FilmId),
 	OyuncuID int foreign key references Oyuncular(OyuncuId)
 )
@@ -51,7 +51,7 @@ create table Kategoriler(
 	KategoriAdi nvarchar(100)
 )
 
-create table Kategoriler_Fimler(
+create table Kategoriler_Filmler(
 	FilmID int foreign key references Filmler(FilmId),
 	KategoriID int foreign key references Kategoriler(KategoriId)
 )
@@ -109,5 +109,20 @@ create table Kullanicilar_Kitaplar(
 	KullaniciID int foreign key references Kullanicilar(KullaniciId),
 	KitapID int foreign key references Kitaplar(KÝtapId)
 )
+
+
+
+create database MovieDb
+go
+
+use MovieDb 
+go
+
+create table Movies(
+	MovieId int primary key,
+	MovieName nvarchar(50)
+)
+
+
 
 
