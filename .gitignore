@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/KutuphaneOtomasyon/.vs/KutuphaneOtomasyon/FileContentIndex/0a74ccc5-aee3-4422-b99d-64cdf073554e.vsidx
+*.vsidx

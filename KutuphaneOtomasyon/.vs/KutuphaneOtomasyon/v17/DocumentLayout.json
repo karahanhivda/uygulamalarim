@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91C8C9AE-255A-4845-B773-EB5CA3B4365B}|KutuphaneOtomasyon\\KutuphaneOtomasyon.csproj|c:\\users\\hivda\\source\\repos\\uygulamalarim\\kutuphaneotomasyon\\kutuphaneotomasyon\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C8C9AE-255A-4845-B773-EB5CA3B4365B}|KutuphaneOtomasyon\\KutuphaneOtomasyon.csproj|solutionrelative:kutuphaneotomasyon\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C5118B5-70EF-4F82-B2ED-6D9E2FC92033}|Demo1\\Demo1.csproj|c:\\users\\hivda\\source\\repos\\uygulamalarim\\kutuphaneotomasyon\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5118B5-70EF-4F82-B2ED-6D9E2FC92033}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +14,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Demo1\\Program.cs",
+              "ToolTip": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\Demo1\\Program.cs*",
+              "RelativeToolTip": "Demo1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:22:29.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,19 +42,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\KutuphaneOtomasyon\\Class1.cs",
-              "RelativeDocumentMoniker": "KutuphaneOtomasyon\\Class1.cs",
-              "ToolTip": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\KutuphaneOtomasyon\\Class1.cs",
-              "RelativeToolTip": "KutuphaneOtomasyon\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T07:58:17.463Z",
-              "EditorCaption": ""
             }
           ]
         }

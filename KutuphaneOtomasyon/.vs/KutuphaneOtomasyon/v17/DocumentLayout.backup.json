@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5118B5-70EF-4F82-B2ED-6D9E2FC92033}|Demo1\\Demo1.csproj|c:\\users\\hivda\\source\\repos\\uygulamalarim\\kutuphaneotomasyon\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5118B5-70EF-4F82-B2ED-6D9E2FC92033}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C8C9AE-255A-4845-B773-EB5CA3B4365B}|KutuphaneOtomasyon\\KutuphaneOtomasyon.csproj|c:\\users\\hivda\\source\\repos\\uygulamalarim\\kutuphaneotomasyon\\kutuphaneotomasyon\\kutuphane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C8C9AE-255A-4845-B773-EB5CA3B4365B}|KutuphaneOtomasyon\\KutuphaneOtomasyon.csproj|solutionrelative:kutuphaneotomasyon\\kutuphane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C8C9AE-255A-4845-B773-EB5CA3B4365B}|KutuphaneOtomasyon\\KutuphaneOtomasyon.csproj|c:\\users\\hivda\\source\\repos\\uygulamalarim\\kutuphaneotomasyon\\kutuphaneotomasyon\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C8C9AE-255A-4845-B773-EB5CA3B4365B}|KutuphaneOtomasyon\\KutuphaneOtomasyon.csproj|solutionrelative:kutuphaneotomasyon\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C8C9AE-255A-4845-B773-EB5CA3B4365B}|KutuphaneOtomasyon\\KutuphaneOtomasyon.csproj|c:\\users\\hivda\\source\\repos\\uygulamalarim\\kutuphaneotomasyon\\kutuphaneotomasyon\\iuye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C8C9AE-255A-4845-B773-EB5CA3B4365B}|KutuphaneOtomasyon\\KutuphaneOtomasyon.csproj|solutionrelative:kutuphaneotomasyon\\iuye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +35,56 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Demo1\\Program.cs",
+              "ToolTip": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\Demo1\\Program.cs",
+              "RelativeToolTip": "Demo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:22:29.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kutuphane.cs",
+              "DocumentMoniker": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\KutuphaneOtomasyon\\Kutuphane.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyon\\Kutuphane.cs",
+              "ToolTip": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\KutuphaneOtomasyon\\Kutuphane.cs",
+              "RelativeToolTip": "KutuphaneOtomasyon\\Kutuphane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:06:01.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Uye.cs",
+              "DocumentMoniker": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\KutuphaneOtomasyon\\Uye.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyon\\Uye.cs",
+              "ToolTip": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\KutuphaneOtomasyon\\Uye.cs",
+              "RelativeToolTip": "KutuphaneOtomasyon\\Uye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:44:47.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUye.cs",
+              "DocumentMoniker": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\KutuphaneOtomasyon\\IUye.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyon\\IUye.cs",
+              "ToolTip": "C:\\Users\\hivda\\source\\repos\\uygulamalarim\\KutuphaneOtomasyon\\KutuphaneOtomasyon\\IUye.cs",
+              "RelativeToolTip": "KutuphaneOtomasyon\\IUye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:34:21.372Z"
             }
           ]
         }

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Demo1/1.0.0": {
+        "dependencies": {
+          "KutuphaneOtomasyon": "1.0.0"
+        },
+        "runtime": {
+          "Demo1.dll": {}
+        }
+      },
+      "KutuphaneOtomasyon/1.0.0": {
+        "runtime": {
+          "KutuphaneOtomasyon.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KutuphaneOtomasyon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
